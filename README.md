@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a data analyst with a passion to unleash the power of data who continuously continuously invest in improving my production capability through learning and accepting new challenges 
+I am a data enthusiast with a passion to unleash the power of data who continuously continuously invest in improving my production capability through learning and accepting new challenges 
 
 
 ## 🌐 Socials:
