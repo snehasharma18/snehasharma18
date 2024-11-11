@@ -1,5 +1,25 @@
 # 💫 About Me:
-I am a data enthusiast with a passion to unleash the power of data who continuously continuously invest in improving my production capability through learning and accepting new challenges 
+● Data Analysis Enthusiast | Proficient in Python, SQL & Tableau | Unleashing the Power of Data for Business Growth!
+
+● Freelancer Data Analyst helping others to gain knowledge and make valuable data visualization in Tableau.
+
+Tools and Technologies I work with,
+
+- Power BI
+- Python
+- SQL
+- Excel
+- Tableau
+- Machine Learning
+
+My Functional Areas
+
+- Data Visualization
+- Market Analysis
+- Dashboarding
+- Data Preprocessing
+
+I am a person who is who is keen to contribute to a cause. I continuously invest in improving my production capability through learning and accepting new challenges
 
 
 ## 🌐 Socials:
