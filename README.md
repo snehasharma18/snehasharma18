@@ -35,6 +35,7 @@ Bachelor’s in Computer Science – GPA 9.2/10
 
 📫 Let’s connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sneha-sharma-aa927b1b2/) 
-[![Tableau](https://public.tableau.com/app/profile/sneha.sharma6278/vizzes?showOnboarding=true) 
+[![Tableau Portfolio](https://img.shields.io/badge/Tableau-Portfolio-blue?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/sneha.sharma6278/vizzes?showOnboarding=true)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
